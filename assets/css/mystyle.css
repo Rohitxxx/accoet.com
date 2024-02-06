@@ -1,0 +1,95 @@
+.site-navigation {
+    border-bottom: 0px solid #F5F7FA;
+    padding: 0px 10px;
+}
+.bannerHead{
+    color:white;
+    font-size: xx-large;
+    font-weight: bold;
+    padding-top: 20px;
+}
+.banner-style-8 {
+    padding: 20px 0px;
+}
+.imgWidth{
+    width: 200px;
+    /*border: 2px solid #5a9fd9;*/
+    /*border-radius: 8px;*/
+}
+
+@media (max-width: 992px){
+.navbar {
+    padding: 0px 10px;
+}
+
+}
+@media (max-width: 480px){
+.header-top {
+    padding: 0px 0px;
+}
+
+}
+.navbar-expand-lg>.container{
+    padding: 0;
+}
+.footer{
+    background-color: white;
+        color: rgba(17, 17, 17, 0.8);
+        padding-top: 80px;
+}
+.bannerTitle{
+    font-size: 40px;
+    color:white;
+    font-weight: bolder;
+    padding: 10px 0px;
+}
+@media screen and (max-width:600px){
+    .imgWidth{
+        width:180px;
+    }
+    .footer{
+        padding-top: 0;
+    }
+    .bannerTitle{
+        font-size: 20px;
+    }
+}
+.footer .footer-widget p {
+    color: rgba(17, 17, 17, 0.8);
+}
+.footer .footer-widget .widget-title {
+    color: #000;
+    margin-bottom: 20px;
+    font-size: 22px;
+}
+.footer .footer-links a {
+    color: rgba(17, 17, 17, 0.8);
+}
+.footer-btm .copyright p {
+          color: rgba(17, 17, 17, 0.8);
+
+}
+.footer .store img{
+    padding:5px;
+    margin:2px;
+}
+.footer-btm {
+    margin-top: 0;
+     padding: 0;
+}
+.widget {
+    margin-bottom: 0px;
+    padding-bottom: 0;
+    border-bottom: 1px solid #dedede;
+}
+.section-padding {
+    padding: 10px 0px;
+}
+.page-wrapper {
+    padding: 10px 0px;
+}
+.course-img{
+    padding-top:10px;
+    width:150px;
+    margin:auto;
+}
